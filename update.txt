@@ -1,6 +1,0 @@
-package_name=cobalt.blackberrymanager
-version_name=1.0.0.36
-version_code=36
-download_path=https://raw.githubusercontent.com/cobalt232/blackberrymanager/gh-pages/cobalt.blackberrymanager.apk
-is_pro_version=true
-
