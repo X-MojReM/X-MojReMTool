@@ -1,0 +1,6 @@
+- Enhanced patching engine<br>
+- Updated settings dialog <br>
+- New compatibility patch for <br>
+- Tapping the open button on X-MojReM Tool now displays the settings dialog<br>
+- Progress information is now displayed during patching<br>
+- Various code optimizations
